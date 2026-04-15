@@ -1,13 +1,56 @@
 # Getting Started with the Vue Tooltip Component
-A quickstart Vue project that shows how to create a Vue app and add the Syncfusion Vue Tooltip component to it. It also shows how to change the position of the tooltip and enable sticky mode. It demonstrates how to render HTML content using templates.
- 
-Refer to the following documentation to learn about the Vue Tooltip component: 
-https://ej2.syncfusion.com/vue/documentation/tooltip/vue-3-getting-started
 
-Check out this online example of the Vue Tooltip Component:
-https://ej2.syncfusion.com/vue/demos/#/material3/tooltip/default.html
+A quickstart Vue project demonstrating how to integrate the Syncfusion Vue Tooltip component into a Vue application with interactive features and customization options.
 
-Make sure that you have the latest versions of NodeJS and Visual Studio Code in your machine before starting to work on this project.
+## Overview
 
-### How to run this application?
-To run this application, you need to clone the `getting-started-with-the-vue-tooltip-component` repository and then open it in Visual Studio Code. Now, simply install all the necessary vue packages into your current project using the `npm install` command and run your project using the `npm run dev` command.
+This project provides a comprehensive guide to working with the Syncfusion Vue Tooltip component. It showcases how to create a Vue app and seamlessly add tooltip functionality, demonstrating key features including position customization, sticky mode, and HTML content rendering through templates.
+
+## Features
+
+- Vue Tooltip component integration
+- Customizable tooltip positioning
+- Sticky mode functionality
+- HTML content rendering with templates
+- Based on Syncfusion Vue 3 components
+
+## Prerequisites
+
+Before starting this project, ensure you have the following installed:
+- **NodeJS**: Latest version
+- **Visual Studio Code**: Latest version
+
+## Installation
+
+To set up this project:
+
+1. Clone the repository:
+   ```
+   git clone <repository-url>
+   ```
+
+2. Navigate to the project directory
+
+3. Install dependencies:
+   ```
+   npm install
+   ```
+
+## Running the Application
+
+To run this application:
+
+```bash
+npm run dev
+```
+
+This command starts the development server and launches your Vue application with hot module replacement enabled.
+
+## Resources
+
+- **Official Documentation**: [Vue Tooltip Component Guide](https://ej2.syncfusion.com/vue/documentation/tooltip/vue-3-getting-started)
+- **Live Demo**: [Vue Tooltip Example](https://ej2.syncfusion.com/vue/demos/#/material3/tooltip/default.html)
+
+## Next Steps
+
+After running the application, explore the tooltip features and experiment with different positioning options and content types to fully understand the component's capabilities.
